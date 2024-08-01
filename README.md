@@ -1,8 +1,8 @@
 # Induction-Motor-data-collection-at-AADHRIT-Lab-IIT-Jammu
 Induction motor data collection at AADHRIT Lab IIT Jammu
 
-Dataset Description
-sensor used:ADXL345
+Dataset Description:
+Sensor used:ADXL345
 
 Dataset Structure:
 The dataset contains six subfolders:
